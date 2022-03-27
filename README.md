@@ -1,0 +1,1 @@
+# Velocity Engine Config Template
